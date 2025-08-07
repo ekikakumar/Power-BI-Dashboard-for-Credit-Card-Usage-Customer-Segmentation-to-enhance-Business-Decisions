@@ -5,7 +5,7 @@ Project Description:
 This Power BI Dashboard analyzes credit card transaction data and customer behavior to derive actionable insights aimed at improving credit card portfolio performance, customer engagement and strategic targeting. It offers a comprehensive view of revenue, transaction trends, customer demographics and expenditure behavior.
 
 Project Objective:
--Understand customer segmentation based on demographics, income, and card usage.
--Track and optimize revenue sources (transactions vs. interest).
--Identify high-value customer profiles.
--Enable data-driven decision-making for product optimization, marketing, and credit risk.
+ -Understand customer segmentation based on demographics, income, and card usage.
+ -Track and optimize revenue sources (transactions vs. interest).
+ -Identify high-value customer profiles.
+ -Enable data-driven decision-making for product optimization, marketing, and credit risk.
